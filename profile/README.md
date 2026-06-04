@@ -14,7 +14,7 @@ Everything is built deliberately and in the open, for the joy of building, one l
 ## Spaces
 - **[Samooh](https://samooh.com)** · a community for Indian-origin founders building global products. ([code](https://github.com/SamoohCo))
 - **[Dhuni](https://dhuni.net)** · a 24/7 internet radio for Indian classical music, by Samooh. ([code](https://github.com/SamoohCo/dhuni))
-- **[Stem](https://stem.md)** · the place your curiosity is looking for.
+- **[Stem](https://stem.md)** · the place your curiosity is looking for. ([code](https://github.com/stemmd))
 
 ## More
 - Web: [ekpani.com](https://ekpani.com)
