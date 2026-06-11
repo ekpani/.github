@@ -1,8 +1,8 @@
-# एकपानी · Ekpani
+# एकपानी · Ekpani Labs
 
 > Building tools and spaces that should exist. One plant, many leaves, each its own.
 
-Ekpani (एकपानी) is Konkani for "one leaf," the name of the Centella asiatica plant, long noted for memory, calm, and focus. It is a small, independent studio: the quiet root beneath a handful of separate, open-source products and spaces. Each keeps its own name, its own home, and its own identity. This org is the index that points to them.
+Ekpani (एकपानी) is Konkani for "one leaf," the name of the Centella asiatica plant, long noted for memory, calm, and focus. Ekpani Labs is a small, independent lab: the quiet root beneath a handful of separate, open-source products and spaces. Each keeps its own name, its own home, and its own identity. This org is the index that points to them.
 
 Everything is built deliberately and in the open, for the joy of building, one leaf at a time.
 
