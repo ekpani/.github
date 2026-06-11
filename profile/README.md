@@ -1,5 +1,5 @@
 # एकपानी
-### Ekpani Labs
+## Ekpani Labs
 
 > Building tools and spaces that should exist. One plant, many leaves, each its own.
 
