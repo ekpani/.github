@@ -15,6 +15,7 @@ Everything is built deliberately and in the open, for the joy of building, one l
 ## Tools
 - **[Shio](https://shio.sh)** · a terminal for the agent era, in your pocket. ([code](https://github.com/shio-sh))
 - **[Timebase](https://timebase.me)** · a calmer way to plan across time zones, with calendar countdowns. ([code](https://github.com/timebaseapp))
+- **[Outage Observer](https://outage.observer)** · status updates for all your dependencies. ([code](https://github.com/ekpani/outage-observer))
 - **[Medivalent](https://medivalent.com)** · cross-border medicine equivalence, by brand or symptom. ([code](https://github.com/medivalent))
 
 ## Spaces
