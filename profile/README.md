@@ -1,30 +1,11 @@
-<p align="center">
-  <a href="https://ekpani.com"><img src="https://raw.githubusercontent.com/ekpani/.github/main/profile/header.png" alt="एकपानी · Ekpani Labs" width="100%" /></a>
-</p>
+<h3 align="center">Ekpani became Dusk Research</h3>
 
-<h3 align="center">Ekpani Labs</h3>
-
-<p align="center"><em>Building tools and spaces that should exist.<br />One plant, many leaves, each its own.</em></p>
+<p align="center"><em>We build tools and spaces that should exist.</em></p>
 
 <hr />
 
-Ekpani (एकपानी) is Konkani for "one leaf," the name of the Centella asiatica plant, long noted for memory, calm, and focus. Ekpani Labs is a small, independent lab: the quiet root beneath a handful of separate, open-source products and spaces. Each keeps its own name, its own home, and its own identity. This org is the index that points to them.
+The lab that started here as Ekpani (एकपानी, "one leaf") now works as **Dusk Research**. Every tool keeps its own name and its own home; the lab itself moved to [github.com/duskresearch](https://github.com/duskresearch) and [duskresearch.com](https://duskresearch.com).
 
-Everything is built deliberately and in the open, for the joy of building, one leaf at a time.
-
-## Tools
-- **[Shio](https://shio.sh)** · a terminal for the agent era, in your pocket. ([code](https://github.com/shio-sh))
-- **[Timebase](https://timebase.me)** · a calmer way to plan across time zones, with calendar countdowns. ([code](https://github.com/timebaseapp))
-- **[Outage Observer](https://outage.observer)** · status updates for all your dependencies. ([code](https://github.com/ekpani/outage-observer))
-- **[Medivalent](https://medivalent.com)** · cross-border medicine equivalence, by brand or symptom. ([code](https://github.com/medivalent))
-
-## Spaces
-- **[Samooh](https://samooh.com)** · a community for Indian-origin founders building global products. ([code](https://github.com/SamoohCo))
-- **[Dhuni](https://dhuni.net)** · a 24/7 internet radio for Indian classical music, by Samooh. ([code](https://github.com/SamoohCo/dhuni))
-- **[Stem](https://stem.md)** · the place your curiosity is looking for. ([code](https://github.com/stemmd))
-
-## More
-- Web: [ekpani.com](https://ekpani.com)
-- For machines: [ekpani.com/llms.txt](https://ekpani.com/llms.txt)
-- Hello: hi@ekpani.com
+- The index of everything we make: [github.com/duskresearch](https://github.com/duskresearch)
+- The site: [duskresearch.com](https://duskresearch.com)
 - The person behind it: [amrith.co](https://amrith.co)
